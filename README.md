@@ -10,4 +10,6 @@
 
 - Detta är en fjärde förändring dirket på main.
 
-- Detta är en förändring som har skett på fix2
+- Detta är en förändring som har skett på fix2.
+
+- Detta är en förändring som har skett på fix3.
