@@ -9,3 +9,5 @@
 - Detta är en tredje förändring direkt på main. 
 
 - Detta är en fjärde förändring dirket på main.
+
+- Detta är en fix på en branch buggfix/readme_changes
