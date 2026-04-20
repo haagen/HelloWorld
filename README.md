@@ -9,3 +9,5 @@
 - Detta är en tredje förändring direkt på main. 
 
 - Detta är en fjärde förändring dirket på main.
+
+- Detta är en förändring som har skett på fix3.
